@@ -1,1 +1,1 @@
-# DSTI Artificial NN Project (Teacher : Dr Amir Nakib)
+# DSTI Artificial NN Project (Professor : Dr Amir Nakib)
